@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World
 Omega-Friendly-System
 
 Hello Humans!
